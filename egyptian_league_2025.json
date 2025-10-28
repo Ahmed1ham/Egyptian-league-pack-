@@ -1,5 +1,77 @@
 {
-  "PlayerData": [
+  "NationData": [
+    {
+      "ID": 1,
+      "Name": "Egypt",
+      "Continent": "Africa",
+      "Reputation": 82,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+    }
+  ],
+
+  "LeagueData": [
+    {
+      "ID": 101,
+      "Name": "Egyptian Premier League 2025",
+      "NationID": 1,
+      "Reputation": 75,
+      "Level": 1,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/e5/Egyptian_Premier_League_logo.png"
+    }
+  ],
+
+  "CupData": [
+    {
+      "ID": 201,
+      "Name": "Egypt Cup 2025",
+      "NationID": 1,
+      "Reputation": 70,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/9/9e/Egypt_Cup_logo.png"
+    },
+    {
+      "ID": 202,
+      "Name": "Egyptian Super Cup 2024/25",
+      "NationID": 1,
+      "Reputation": 72,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/03/Egyptian_Super_Cup_logo.png"
+    }
+  ],
+
+  "StadiumData": [
+    {"ID":301,"Name":"Cairo International Stadium","Capacity":75000},
+    {"ID":302,"Name":"30 June Stadium","Capacity":30000},
+    {"ID":303,"Name":"Borg El Arab Stadium","Capacity":86000},
+    {"ID":304,"Name":"Ismaily Stadium","Capacity":18000},
+    {"ID":305,"Name":"Petro Sport Stadium","Capacity":17000},
+    {"ID":306,"Name":"Gouna Stadium","Capacity":15000},
+    {"ID":307,"Name":"Arab Contractors Stadium","Capacity":22000},
+    {"ID":308,"Name":"Alexandria Stadium","Capacity":20000},
+    {"ID":309,"Name":"Al Salam Stadium","Capacity":30000}
+  ],
+
+  "ClubData": [
+    {"ID":1,"Name":"Al Ahly","ShortName":"ALAH","LeagueID":101,"StadiumID":301,"Budget":30000000,"MarketValue":120000000,"Reputation":90,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/5/53/Al_Ahly_SC_logo.png"},
+    {"ID":2,"Name":"Zamalek","ShortName":"ZAM","LeagueID":101,"StadiumID":301,"Budget":25000000,"MarketValue":85000000,"Reputation":88,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/3/3a/Zamalek_SC_logo.png"},
+    {"ID":3,"Name":"Pyramids FC","ShortName":"PYR","LeagueID":101,"StadiumID":302,"Budget":20000000,"MarketValue":40000000,"Reputation":85,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/4/4d/Pyramids_FC_logo.png"},
+    {"ID":4,"Name":"Future FC","ShortName":"FUT","LeagueID":101,"StadiumID":307,"Budget":10000000,"MarketValue":18000000,"Reputation":75,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/d/d7/Future_FC_logo.png"},
+    {"ID":5,"Name":"Ismaily","ShortName":"ISM","LeagueID":101,"StadiumID":304,"Budget":7000000,"MarketValue":7000000,"Reputation":70,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/1/1a/Ismaily_SC_logo.png"},
+    {"ID":6,"Name":"Al Ittihad Alexandria","ShortName":"ITT","LeagueID":101,"StadiumID":308,"Budget":6000000,"MarketValue":9000000,"Reputation":72,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/8/8c/Al_Ittihad_Al_Sakandary_logo.png"},
+    {"ID":7,"Name":"Smouha","ShortName":"SMO","LeagueID":101,"StadiumID":308,"Budget":5500000,"MarketValue":8000000,"Reputation":70,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/1/1e/Smouha_SC_logo.png"},
+    {"ID":8,"Name":"ENPPI","ShortName":"ENP","LeagueID":101,"StadiumID":305,"Budget":5000000,"MarketValue":6000000,"Reputation":68,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/7/79/ENPPI_SC_logo.png"},
+    {"ID":9,"Name":"Ceramica Cleopatra","ShortName":"CEC","LeagueID":101,"StadiumID":303,"Budget":5500000,"MarketValue":9500000,"Reputation":70,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/f/f7/Ceramica_Cleopatra_FC_logo.png"},
+    {"ID":10,"Name":"Pharco","ShortName":"PHA","LeagueID":101,"StadiumID":305,"Budget":4800000,"MarketValue":5500000,"Reputation":68,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/3/3f/Pharco_FC_logo.png"},
+    {"ID":11,"Name":"National Bank","ShortName":"NBE","LeagueID":101,"StadiumID":305,"Budget":4000000,"MarketValue":4500000,"Reputation":65,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/b/b7/National_Bank_of_Egypt_SC_logo.png"},
+    {"ID":12,"Name":"Tala'ea El Gaish","ShortName":"GAI","LeagueID":101,"StadiumID":305,"Budget":4200000,"MarketValue":5000000,"Reputation":67,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/8/85/Tala%27ea_El_Gaish_SC_logo.png"},
+    {"ID":13,"Name":"El Gouna","ShortName":"GOU","LeagueID":101,"StadiumID":306,"Budget":3000000,"MarketValue":3200000,"Reputation":62,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/a/ad/El_Gouna_FC_logo.png"},
+    {"ID":14,"Name":"Al Mokawloon","ShortName":"MOK","LeagueID":101,"StadiumID":307,"Budget":3500000,"MarketValue":4800000,"Reputation":65,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/0/0c/Arab_Contractors_SC_logo.png"},
+    {"ID":15,"Name":"ZED FC","ShortName":"ZED","LeagueID":101,"StadiumID":305,"Budget":3300000,"MarketValue":3500000,"Reputation":63,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/9/9e/ZED_FC_logo.png"},
+    {"ID":16,"Name":"Baladeyet El Mahalla","ShortName":"BAL","LeagueID":101,"StadiumID":308,"Budget":2200000,"MarketValue":2200000,"Reputation":60,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/e/ea/Baladeyet_El_Mahalla_SC_logo.png"},
+    {"ID":17,"Name":"El Dakhlia","ShortName":"DAK","LeagueID":101,"StadiumID":305,"Budget":2100000,"MarketValue":2000000,"Reputation":58,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/f/fd/El_Dakhleya_SC_logo.png"},
+    {"ID":18,"Name":"Al Masry","ShortName":"MAS","LeagueID":101,"StadiumID":303,"Budget":6000000,"MarketValue":7000000,"Reputation":75,"ImageURL":"https://upload.wikimedia.org/wikipedia/en/d/d2/Al_Masry_SC_logo.png"}
+  ],
+
+  "PlayerData":
+  [
     {"ID":1,"Forename":"Mohamed","Surname":"El-Shenawy","Age":33,"Nationality":"Egypt","ClubID":1,"Position":"GK","MarketValue":1200000,"Overall":79,"ImageURL":"https://en.wikipedia.org/wiki/Mohamed_El-Shenawy"},
     {"ID":2,"Forename":"Mohamed","Surname":"Sherif","Age":28,"Nationality":"Egypt","ClubID":1,"Position":"ST","MarketValue":3000000,"Overall":82,"ImageURL":"https://en.wikipedia.org/wiki/Mohamed_Sherif"},
     {"ID":3,"Forename":"Afsha","Surname":"(Mohamed)","Age":29,"Nationality":"Egypt","ClubID":1,"Position":"CAM","MarketValue":1800000,"Overall":80,"ImageURL":"https://en.wikipedia.org/wiki/Afsha"},
