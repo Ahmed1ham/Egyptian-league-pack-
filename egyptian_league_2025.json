@@ -1,0 +1,93 @@
+{
+  "PlayerData": [
+    {"ID":1,"Forename":"Mohamed","Surname":"El-Shenawy","Age":33,"Nationality":"Egypt","ClubID":1,"Position":"GK","MarketValue":1200000,"Overall":79,"ImageURL":"https://en.wikipedia.org/wiki/Mohamed_El-Shenawy"},
+    {"ID":2,"Forename":"Mohamed","Surname":"Sherif","Age":28,"Nationality":"Egypt","ClubID":1,"Position":"ST","MarketValue":3000000,"Overall":82,"ImageURL":"https://en.wikipedia.org/wiki/Mohamed_Sherif"},
+    {"ID":3,"Forename":"Afsha","Surname":"(Mohamed)","Age":29,"Nationality":"Egypt","ClubID":1,"Position":"CAM","MarketValue":1800000,"Overall":80,"ImageURL":"https://en.wikipedia.org/wiki/Afsha"},
+    {"ID":4,"Forename":"Yasser","Surname":"Ibrahim","Age":31,"Nationality":"Egypt","ClubID":1,"Position":"CB","MarketValue":900000,"Overall":77,"ImageURL":"https://en.wikipedia.org/wiki/Yasser_Ibrahim"},
+    {"ID":5,"Forename":"Ramadan","Surname":"Sobhi","Age":28,"Nationality":"Egypt","ClubID":2,"Position":"RW","MarketValue":4000000,"Overall":83,"ImageURL":"https://en.wikipedia.org/wiki/Ramadan_Sobhi"},
+    {"ID":6,"Forename":"Tarek","Surname":"Hamed","Age":35,"Nationality":"Egypt","ClubID":2,"Position":"DM","MarketValue":700000,"Overall":75,"ImageURL":"https://en.wikipedia.org/wiki/Tarek_Hamed"},
+    {"ID":7,"Forename":"Mostafa","Surname":"Mohamed","Age":26,"Nationality":"Egypt","ClubID":2,"Position":"ST","MarketValue":2500000,"Overall":81,"ImageURL":"https://en.wikipedia.org/wiki/Mostafa_Mohamed"},
+    {"ID":8,"Forename":"Mahmoud","Surname":"El-Khatib","Age":64,"Nationality":"Egypt","ClubID":2,"Position":"Legend","MarketValue":0,"Overall":95,"ImageURL":"https://en.wikipedia.org/wiki/Mahmoud_El_Khatib"},
+
+    {"ID":9,"Forename":"Kahraba","Surname":"(Mahmoud)","Age":30,"Nationality":"Egypt","ClubID":3,"Position":"LW/RW","MarketValue":1500000,"Overall":79,"ImageURL":"https://en.wikipedia.org/wiki/Kahraba_(footballer)"},
+    {"ID":10,"Forename":"John","Surname":"Antwi","Age":31,"Nationality":"Ghana","ClubID":3,"Position":"ST","MarketValue":500000,"Overall":74,"ImageURL":"https://en.wikipedia.org/wiki/John_Antwi"},
+    {"ID":11,"Forename":"Paul","Surname":"Tucker","Age":29,"Nationality":"England","ClubID":3,"Position":"CB","MarketValue":300000,"Overall":72,"ImageURL":"https://en.wikipedia.org/wiki/Pyramids_FC"},
+    {"ID":12,"Forename":"Ahmed","Surname":"Saeed","Age":27,"Nationality":"Egypt","ClubID":4,"Position":"CM","MarketValue":450000,"Overall":74,"ImageURL":"https://en.wikipedia.org/wiki/Future_FC"},
+    {"ID":13,"Forename":"Emam","Surname":"Ashour","Age":26,"Nationality":"Egypt","ClubID":4,"Position":"CM","MarketValue":1000000,"Overall":78,"ImageURL":"https://en.wikipedia.org/wiki/Emam_Ashour"},
+    {"ID":14,"Forename":"Ali","Surname":"Gabr","Age":37,"Nationality":"Egypt","ClubID":5,"Position":"CB","MarketValue":250000,"Overall":70,"ImageURL":"https://en.wikipedia.org/wiki/Ali_Gabr"},
+    {"ID":15,"Forename":"Ahmed","Surname":"El-Mohamady","Age":34,"Nationality":"Egypt","ClubID":5,"Position":"RB","MarketValue":300000,"Overall":73,"ImageURL":"https://en.wikipedia.org/wiki/Ahmed_El-Mohamady"},
+    {"ID":16,"Forename":"Mohamed","Surname":"Zizo","Age":30,"Nationality":"Egypt","ClubID":6,"Position":"RW","MarketValue":350000,"Overall":74,"ImageURL":"https://en.wikipedia.org/wiki/Mohamed_Zizo"},
+
+    {"ID":17,"Forename":"Mostafa","Surname":"Fathy","Age":29,"Nationality":"Egypt","ClubID":6,"Position":"CM","MarketValue":400000,"Overall":75,"ImageURL":"https://en.wikipedia.org/wiki/Mostafa_Fathy"},
+    {"ID":18,"Forename":"Ahmed","Surname":"Samir","Age":31,"Nationality":"Egypt","ClubID":7,"Position":"CB","MarketValue":200000,"Overall":71,"ImageURL":"https://en.wikipedia.org/wiki/Smouha_SC"},
+    {"ID":19,"Forename":"Karim","Surname":"El Sayed","Age":28,"Nationality":"Egypt","ClubID":7,"Position":"CAM","MarketValue":220000,"Overall":72,"ImageURL":"https://en.wikipedia.org/wiki/Smouha_SC"},
+    {"ID":20,"Forename":"Ahmed","Surname":"Refaat","Age":27,"Nationality":"Egypt","ClubID":8,"Position":"RB","MarketValue":180000,"Overall":71,"ImageURL":"https://en.wikipedia.org/wiki/ENPPI_SC"},
+    {"ID":21,"Forename":"Ibrahim","Surname":"Hassan","Age":26,"Nationality":"Egypt","ClubID":8,"Position":"ST","MarketValue":240000,"Overall":73,"ImageURL":"https://en.wikipedia.org/wiki/ENPPI_SC"},
+    {"ID":22,"Forename":"Abdallah","Surname":"El-Said","Age":30,"Nationality":"Egypt","ClubID":9,"Position":"ST","MarketValue":450000,"Overall":76,"ImageURL":"https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC"},
+    {"ID":23,"Forename":"Ramy","Surname":"Tarek","Age":28,"Nationality":"Egypt","ClubID":9,"Position":"CM","MarketValue":200000,"Overall":72,"ImageURL":"https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC"},
+    {"ID":24,"Forename":"Mostafa","Surname":"Abdallah","Age":26,"Nationality":"Egypt","ClubID":10,"Position":"ST","MarketValue":300000,"Overall":73,"ImageURL":"https://en.wikipedia.org/wiki/Pharco_FC"},
+
+    {"ID":25,"Forename":"Seif","Surname":"Ahmed","Age":25,"Nationality":"Egypt","ClubID":10,"Position":"CM","MarketValue":150000,"Overall":70,"ImageURL":"https://en.wikipedia.org/wiki/Pharco_FC"},
+    {"ID":26,"Forename":"Ali","Surname":"Alaa","Age":24,"Nationality":"Egypt","ClubID":11,"Position":"CB","MarketValue":220000,"Overall":72,"ImageURL":"https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC"},
+    {"ID":27,"Forename":"Mahmoud","Surname":"Emad","Age":27,"Nationality":"Egypt","ClubID":11,"Position":"GK","MarketValue":120000,"Overall":69,"ImageURL":"https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC"},
+    {"ID":28,"Forename":"Hossam","Surname":"Ghaly","Age":43,"Nationality":"Egypt","ClubID":12,"Position":"Legend","MarketValue":0,"Overall":90,"ImageURL":"https://en.wikipedia.org/wiki/Tala%27ea_El_Gaish_SC"},
+    {"ID":29,"Forename":"Amr","Surname":"El Solia","Age":32,"Nationality":"Egypt","ClubID":12,"Position":"CM","MarketValue":350000,"Overall":76,"ImageURL":"https://en.wikipedia.org/wiki/Amr_El_Solia"},
+    {"ID":30,"Forename":"Walid","Surname":"Soliman","Age":39,"Nationality":"Egypt","ClubID":13,"Position":"CAM","MarketValue":0,"Overall":75,"ImageURL":"https://en.wikipedia.org/wiki/Walid_Soliman"},
+    {"ID":31,"Forename":"Reda","Surname":"Hegazy","Age":29,"Nationality":"Egypt","ClubID":13,"Position":"CB","MarketValue":300000,"Overall":75,"ImageURL":"https://en.wikipedia.org/wiki/Reda_Hegazy"},
+
+    {"ID":32,"Forename":"Khaled","Surname":"Mahmoud","Age":27,"Nationality":"Egypt","ClubID":14,"Position":"RB","MarketValue":180000,"Overall":71,"ImageURL":"https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC"},
+    {"ID":33,"Forename":"Alaa","Surname":"Abdel-Hamid","Age":26,"Nationality":"Egypt","ClubID":14,"Position":"CM","MarketValue":160000,"Overall":70,"ImageURL":"https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC"},
+    {"ID":34,"Forename":"Mahmoud","Surname":"Khalil","Age":25,"Nationality":"Egypt","ClubID":14,"Position":"ST","MarketValue":200000,"Overall":72,"ImageURL":"https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC"},
+    {"ID":35,"Forename":"Mahmoud","Surname":"Abbas","Age":26,"Nationality":"Egypt","ClubID":15,"Position":"LW","MarketValue":150000,"Overall":71,"ImageURL":"https://en.wikipedia.org/wiki/ZED_FC"},
+    {"ID":36,"Forename":"Kamal","Surname":"Sayed","Age":28,"Nationality":"Egypt","ClubID":15,"Position":"CM","MarketValue":140000,"Overall":70,"ImageURL":"https://en.wikipedia.org/wiki/ZED_FC"},
+    {"ID":37,"Forename":"Mohamed","Surname":"Aziz","Age":30,"Nationality":"Egypt","ClubID":16,"Position":"CB","MarketValue":250000,"Overall":73,"ImageURL":"https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary"},
+    {"ID":38,"Forename":"Salah","Surname":"Hassan","Age":29,"Nationality":"Egypt","ClubID":16,"Position":"ST","MarketValue":180000,"Overall":72,"ImageURL":"https://en.wikipedia.org/wiki/Salah_Hassan"},
+
+    {"ID":39,"Forename":"Ahmed","Surname":"Kamal","Age":27,"Nationality":"Egypt","ClubID":17,"Position":"CM","MarketValue":130000,"Overall":69,"ImageURL":"https://en.wikipedia.org/wiki/El_Mahalla_SC"},
+    {"ID":40,"Forename":"Ramy","Surname":"Abdelrahman","Age":28,"Nationality":"Egypt","ClubID":17,"Position":"RB","MarketValue":120000,"Overall":69,"ImageURL":"https://en.wikipedia.org/wiki/El_Mahalla_SC"},
+    {"ID":41,"Forename":"Hossam","Surname":"Abdulrahman","Age":29,"Nationality":"Egypt","ClubID":18,"Position":"CM","MarketValue":160000,"Overall":71,"ImageURL":"https://en.wikipedia.org/wiki/Al_Masry_SC"},
+    {"ID":42,"Forename":"Omar","Surname":"Hassan","Age":26,"Nationality":"Egypt","ClubID":18,"Position":"ST","MarketValue":200000,"Overall":72,"ImageURL":"https://en.wikipedia.org/wiki/Al_Masry_SC"}
+  ],
+
+  "ClubData": [
+    {"ID":1,"Name":"Al Ahly","ShortName":"ALAH","LeagueID":101,"StadiumID":301,"MarketValue":120000000,"ImageURL":"https://en.wikipedia.org/wiki/Al_Ahly_SC"},
+    {"ID":2,"Name":"Zamalek","ShortName":"ZAM","LeagueID":101,"StadiumID":301,"MarketValue":85000000,"ImageURL":"https://en.wikipedia.org/wiki/Zamalek_SC"},
+    {"ID":3,"Name":"Pyramids FC","ShortName":"PYR","LeagueID":101,"StadiumID":302,"MarketValue":40000000,"ImageURL":"https://en.wikipedia.org/wiki/Pyramids_FC"},
+    {"ID":4,"Name":"Future FC","ShortName":"FUT","LeagueID":101,"StadiumID":307,"MarketValue":18000000,"ImageURL":"https://en.wikipedia.org/wiki/Future_FC"},
+    {"ID":5,"Name":"Ismaily","ShortName":"ISM","LeagueID":101,"StadiumID":304,"MarketValue":7000000,"ImageURL":"https://en.wikipedia.org/wiki/Ismaily_SC"},
+    {"ID":6,"Name":"Al Ittihad Alexandria","ShortName":"ITT","LeagueID":101,"StadiumID":308,"MarketValue":9000000,"ImageURL":"https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary"},
+    {"ID":7,"Name":"Smouha","ShortName":"SMO","LeagueID":101,"StadiumID":308,"MarketValue":8000000,"ImageURL":"https://en.wikipedia.org/wiki/Smouha_SC"},
+    {"ID":8,"Name":"ENPPI","ShortName":"ENP","LeagueID":101,"StadiumID":305,"MarketValue":6000000,"ImageURL":"https://en.wikipedia.org/wiki/ENPPI_SC"},
+    {"ID":9,"Name":"Ceramica Cleopatra","ShortName":"CEC","LeagueID":101,"StadiumID":303,"MarketValue":9500000,"ImageURL":"https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC"},
+    {"ID":10,"Name":"Pharco","ShortName":"PHA","LeagueID":101,"StadiumID":305,"MarketValue":5500000,"ImageURL":"https://en.wikipedia.org/wiki/Pharco_FC"},
+    {"ID":11,"Name":"National Bank","ShortName":"NBE","LeagueID":101,"StadiumID":305,"MarketValue":4500000,"ImageURL":"https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC"},
+    {"ID":12,"Name":"Tala'ea El Gaish","ShortName":"GAI","LeagueID":101,"StadiumID":305,"MarketValue":5000000,"ImageURL":"https://en.wikipedia.org/wiki/Tala%27ea_El_Gaish_SC"},
+    {"ID":13,"Name":"El Gouna","ShortName":"GOU","LeagueID":101,"StadiumID":306,"MarketValue":3200000,"ImageURL":"https://en.wikipedia.org/wiki/El_Gouna_FC"},
+    {"ID":14,"Name":"Al Mokawloon","ShortName":"MOK","LeagueID":101,"StadiumID":307,"MarketValue":4800000,"ImageURL":"https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC"},
+    {"ID":15,"Name":"ZED FC","ShortName":"ZED","LeagueID":101,"StadiumID":305,"MarketValue":3500000,"ImageURL":"https://en.wikipedia.org/wiki/ZED_FC"},
+    {"ID":16,"Name":"Al Ittihad Alexandria (alt)","ShortName":"IAX","LeagueID":101,"StadiumID":308,"MarketValue":9000000,"ImageURL":"https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary"},
+    {"ID":17,"Name":"Baladeyet El Mahalla","ShortName":"BAL","LeagueID":101,"StadiumID":308,"MarketValue":2200000,"ImageURL":"https://en.wikipedia.org/wiki/El_Mahalla_SC"},
+    {"ID":18,"Name":"Al Masry","ShortName":"MAS","LeagueID":101,"StadiumID":305,"MarketValue":7000000,"ImageURL":"https://en.wikipedia.org/wiki/Al_Masry_SC"}
+  ],
+
+  "LeagueData": [
+    {"ID":101,"Name":"Egyptian Premier League 2025","ImageURL":"https://en.wikipedia.org/wiki/Egyptian_Premier_League"}
+  ],
+
+  "CupData": [
+    {"ID":201,"Name":"Egypt Cup 2025","ImageURL":"https://en.wikipedia.org/wiki/Egypt_Cup"},
+    {"ID":202,"Name":"Egyptian Super Cup 2024/25","ImageURL":"https://en.wikipedia.org/wiki/Egyptian_Super_Cup"}
+  ],
+
+  "StadiumData": [
+    {"ID":301,"Name":"Cairo International Stadium"},
+    {"ID":302,"Name":"30 June Stadium"},
+    {"ID":303,"Name":"Borg El Arab Stadium"},
+    {"ID":304,"Name":"Ismaily Stadium"},
+    {"ID":305,"Name":"Petro Sport Stadium"},
+    {"ID":306,"Name":"Gouna Stadium"},
+    {"ID":307,"Name":"Petro Sport Stadium (shared)"},
+    {"ID":308,"Name":"Alexandria Stadium"},
+    {"ID":309,"Name":"Al Salam Stadium"}
+  ]
+}
