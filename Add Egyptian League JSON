@@ -1,0 +1,130 @@
+{
+  "PlayerData": [
+    { "ID": 1, "Forename": "Mohamed", "Surname": "El-Shenawy", "ImageURL": "https://en.wikipedia.org/wiki/Mohamed_El-Shenawy" },
+    { "ID": 2, "Forename": "Mohamed", "Surname": "Sherif", "ImageURL": "https://en.wikipedia.org/wiki/Mohamed_Sherif" },
+    { "ID": 3, "Forename": "Mohamed", "Surname": "Magdy (Afsha)", "ImageURL": "https://en.wikipedia.org/wiki/Afsha" },
+    { "ID": 4, "Forename": "Yasser", "Surname": "Ibrahim", "ImageURL": "https://en.wikipedia.org/wiki/Yasser_Ibrahim" },
+
+    { "ID": 5, "Forename": "Mostafa", "Surname": "Shobier", "ImageURL": "https://en.wikipedia.org/wiki/Mostafa_Shobeir" },
+    { "ID": 6, "Forename": "Mahmoud", "Surname": "Alaa", "ImageURL": "https://en.wikipedia.org/wiki/Mahmoud_Alaa" },
+    { "ID": 7, "Forename": "Achraf", "Surname": "Bencharki", "ImageURL": "https://en.wikipedia.org/wiki/Achraf_Bencharki" },
+    { "ID": 8, "Forename": "Youssef", "Surname": "Obama", "ImageURL": "https://en.wikipedia.org/wiki/Youssef_Obama" },
+
+    { "ID": 9, "Forename": "Mostafa", "Surname": "Mohamed", "ImageURL": "https://en.wikipedia.org/wiki/Mostafa_Mohamed" },
+    { "ID": 10, "Forename": "Ramadan", "Surname": "Sobhi", "ImageURL": "https://en.wikipedia.org/wiki/Ramadan_Sobhi" },
+    { "ID": 11, "Forename": "Kahraba", "Surname": "Mahmoud", "ImageURL": "https://en.wikipedia.org/wiki/Yehia_El_Sayed" },
+    { "ID": 12, "Forename": "Paul", "Surname": "Tucker", "ImageURL": "https://en.wikipedia.org/wiki/Pyramids_FC" },
+
+    { "ID": 13, "Forename": "Ahmed", "Surname": "El Shenawy (alt)", "ImageURL": "https://en.wikipedia.org/wiki/Al_Ahly_SC" },
+    { "ID": 14, "Forename": "Emam", "Surname": "Ashour", "ImageURL": "https://en.wikipedia.org/wiki/Emam_Ashour" },
+    { "ID": 15, "Forename": "Ali", "Surname": "Gabr", "ImageURL": "https://en.wikipedia.org/wiki/Ali_Gabr" },
+    { "ID": 16, "Forename": "Hussein", "Surname": "El Shahat", "ImageURL": "https://en.wikipedia.org/wiki/Hossam_Abdalla" },
+
+    { "ID": 17, "Forename": "Ahmed", "Surname": "Said", "ImageURL": "https://en.wikipedia.org/wiki/Ismaily_SC" },
+    { "ID": 18, "Forename": "Mostafa", "Surname": "Fathy", "ImageURL": "https://en.wikipedia.org/wiki/Mostafa_Fathy" },
+    { "ID": 19, "Forename": "Mohamed", "Surname": "Zizo", "ImageURL": "https://en.wikipedia.org/wiki/Mohamed_Zizo" },
+    { "ID": 20, "Forename": "Ahmed", "Surname": "Samir", "ImageURL": "https://en.wikipedia.org/wiki/Ahmed_Samir" },
+
+    { "ID": 21, "Forename": "Ahmed", "Surname": "El Gohary", "ImageURL": "https://en.wikipedia.org/wiki/Smouha_SC" },
+    { "ID": 22, "Forename": "Hassan", "Surname": "Moustafa", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" },
+    { "ID": 23, "Forename": "Youssef", "Surname": "Hassan", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" },
+    { "ID": 24, "Forename": "Wael", "Surname": "Atef", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" },
+
+    { "ID": 25, "Forename": "Ahmed", "Surname": "Refaat", "ImageURL": "https://en.wikipedia.org/wiki/ENPPI_SC" },
+    { "ID": 26, "Forename": "Mohamed", "Surname": "Saeed", "ImageURL": "https://en.wikipedia.org/wiki/ENPPI_SC" },
+    { "ID": 27, "Forename": "Ibrahim", "Surname": "Hassan", "ImageURL": "https://en.wikipedia.org/wiki/ENPPI_SC" },
+    { "ID": 28, "Forename": "Omar", "Surname": "Ibrahim", "ImageURL": "https://en.wikipedia.org/wiki/ENPPI_SC" },
+
+    { "ID": 29, "Forename": "Hany", "Surname": "Sayed", "ImageURL": "https://en.wikipedia.org/wiki/Smouha_SC" },
+    { "ID": 30, "Forename": "Karim", "Surname": "El Sayed", "ImageURL": "https://en.wikipedia.org/wiki/Smouha_SC" },
+    { "ID": 31, "Forename": "Tarek", "Surname": "Mohamed", "ImageURL": "https://en.wikipedia.org/wiki/Smouha_SC" },
+    { "ID": 32, "Forename": "Nader", "Surname": "Gamal", "ImageURL": "https://en.wikipedia.org/wiki/Smouha_SC" },
+
+    { "ID": 33, "Forename": "Ahmed", "Surname": "Hassan", "ImageURL": "https://en.wikipedia.org/wiki/El_Gouna_FC" },
+    { "ID": 34, "Forename": "Mohamed", "Surname": "Fathy (Gouna)", "ImageURL": "https://en.wikipedia.org/wiki/El_Gouna_FC" },
+    { "ID": 35, "Forename": "Walid", "Surname": "Soliman", "ImageURL": "https://en.wikipedia.org/wiki/El_Gouna_FC" },
+    { "ID": 36, "Forename": "Reda", "Surname": "Hegazy", "ImageURL": "https://en.wikipedia.org/wiki/El_Gouna_FC" },
+
+    { "ID": 37, "Forename": "Khaled", "Surname": "Mahmoud", "ImageURL": "https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC" },
+    { "ID": 38, "Forename": "Alaa", "Surname": "Abdel-Hamid", "ImageURL": "https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC" },
+    { "ID": 39, "Forename": "Mahmoud", "Surname": "Khalil", "ImageURL": "https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC" },
+    { "ID": 40, "Forename": "Ibrahim", "Surname": "Helmi", "ImageURL": "https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC" },
+
+    { "ID": 41, "Forename": "Ali", "Surname": "Alaa", "ImageURL": "https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC" },
+    { "ID": 42, "Forename": "Sayed", "Surname": "Mohamed", "ImageURL": "https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC" },
+    { "ID": 43, "Forename": "Mahmoud", "Surname": "Emad", "ImageURL": "https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC" },
+    { "ID": 44, "Forename": "Omar", "Surname": "Salah", "ImageURL": "https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC" },
+
+    { "ID": 45, "Forename": "Hossam", "Surname": "Ghaly", "ImageURL": "https://en.wikipedia.org/wiki/Tala%27ea_El_Gaish_SC" },
+    { "ID": 46, "Forename": "Amr", "Surname": "El Solia", "ImageURL": "https://en.wikipedia.org/wiki/Tala%27ea_El_Gaish_SC" },
+    { "ID": 47, "Forename": "Mostafa", "Surname": "Khaled", "ImageURL": "https://en.wikipedia.org/wiki/Tala%27ea_El_Gaish_SC" },
+    { "ID": 48, "Forename": "Adel", "Surname": "Khodary", "ImageURL": "https://en.wikipedia.org/wiki/Tala%27ea_El_Gaish_SC" },
+
+    { "ID": 49, "Forename": "Yassin", "Surname": "Al Shehri", "ImageURL": "https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC" },
+    { "ID": 50, "Forename": "Mohamed", "Surname": "Ibrahim", "ImageURL": "https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC" },
+    { "ID": 51, "Forename": "Ibrahim", "Surname": "Mahmoud", "ImageURL": "https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC" },
+    { "ID": 52, "Forename": "Ramy", "Surname": "Tarek", "ImageURL": "https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC" },
+
+    { "ID": 53, "Forename": "Mohamed", "Surname": "Abdallah", "ImageURL": "https://en.wikipedia.org/wiki/Pharco_FC" },
+    { "ID": 54, "Forename": "Hussein", "Surname": "Hamdy", "ImageURL": "https://en.wikipedia.org/wiki/Pharco_FC" },
+    { "ID": 55, "Forename": "Seif", "Surname": "Ahmed", "ImageURL": "https://en.wikipedia.org/wiki/Pharco_FC" },
+    { "ID": 56, "Forename": "Nabil", "Surname": "El Zahran", "ImageURL": "https://en.wikipedia.org/wiki/Pharco_FC" },
+
+    { "ID": 57, "Forename": "Mahmoud", "Surname": "Abbas", "ImageURL": "https://en.wikipedia.org/wiki/ZED_FC" },
+    { "ID": 58, "Forename": "Kamal", "Surname": "Sayed", "ImageURL": "https://en.wikipedia.org/wiki/ZED_FC" },
+    { "ID": 59, "Forename": "Yasir", "Surname": "Khaled", "ImageURL": "https://en.wikipedia.org/wiki/ZED_FC" },
+    { "ID": 60, "Forename": "Ihab", "Surname": "Ibrahim", "ImageURL": "https://en.wikipedia.org/wiki/ZED_FC" },
+
+    { "ID": 61, "Forename": "Mohamed", "Surname": "Aziz", "ImageURL": "https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary" },
+    { "ID": 62, "Forename": "Ahmed", "Surname": "Tarek", "ImageURL": "https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary" },
+    { "ID": 63, "Forename": "Salah", "Surname": "Hassan", "ImageURL": "https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary" },
+    { "ID": 64, "Forename": "Hamada", "Surname": "El-Samni", "ImageURL": "https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary" },
+
+    { "ID": 65, "Forename": "Ahmed", "Surname": "Kamal", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" },
+    { "ID": 66, "Forename": "Ehab", "Surname": "Youssef", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" },
+    { "ID": 67, "Forename": "Ramy", "Surname": "Abdelrahman", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" },
+    { "ID": 68, "Forename": "Ali", "Surname": "Mohamed", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" }
+  ],
+
+  "ClubData": [
+    { "ID": 1, "Name": "Al Ahly", "ShortName": "ALAH", "ImageURL": "https://en.wikipedia.org/wiki/Al_Ahly_SC" },
+    { "ID": 2, "Name": "Zamalek", "ShortName": "ZAM", "ImageURL": "https://en.wikipedia.org/wiki/Zamalek_SC" },
+    { "ID": 3, "Name": "Pyramids FC", "ShortName": "PYR", "ImageURL": "https://en.wikipedia.org/wiki/Pyramids_FC" },
+    { "ID": 4, "Name": "Future FC", "ShortName": "FUT", "ImageURL": "https://en.wikipedia.org/wiki/Future_FC" },
+    { "ID": 5, "Name": "Al Masry", "ShortName": "MAS", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" },
+    { "ID": 6, "Name": "Ismaily", "ShortName": "ISM", "ImageURL": "https://en.wikipedia.org/wiki/Ismaily_SC" },
+    { "ID": 7, "Name": "ENPPI", "ShortName": "ENP", "ImageURL": "https://en.wikipedia.org/wiki/ENPPI_SC" },
+    { "ID": 8, "Name": "Smouha", "ShortName": "SMO", "ImageURL": "https://en.wikipedia.org/wiki/Smouha_SC" },
+    { "ID": 9, "Name": "Ceramica Cleopatra", "ShortName": "CEC", "ImageURL": "https://en.wikipedia.org/wiki/Ceramica_Cleopatra_FC" },
+    { "ID": 10, "Name": "Pharco", "ShortName": "PHA", "ImageURL": "https://en.wikipedia.org/wiki/Pharco_FC" },
+    { "ID": 11, "Name": "National Bank", "ShortName": "NBE", "ImageURL": "https://en.wikipedia.org/wiki/National_Bank_of_Egypt_SC" },
+    { "ID": 12, "Name": "Tala'ea El Gaish", "ShortName": "GAI", "ImageURL": "https://en.wikipedia.org/wiki/Tala%27ea_El_Gaish_SC" },
+    { "ID": 13, "Name": "El Gouna", "ShortName": "GOU", "ImageURL": "https://en.wikipedia.org/wiki/El_Gouna_FC" },
+    { "ID": 14, "Name": "Al Mokawloon", "ShortName": "MOK", "ImageURL": "https://en.wikipedia.org/wiki/Al_Mokawloon_Al_Arab_SC" },
+    { "ID": 15, "Name": "ZED FC", "ShortName": "ZED", "ImageURL": "https://en.wikipedia.org/wiki/ZED_FC" },
+    { "ID": 16, "Name": "Al Ittihad Alexandria", "ShortName": "ITT", "ImageURL": "https://en.wikipedia.org/wiki/Al_Ittihad_Al_Sakandary" },
+    { "ID": 17, "Name": "Baladeyet El Mahalla", "ShortName": "BAL", "ImageURL": "https://en.wikipedia.org/wiki/El_Mahalla_SC" },
+    { "ID": 18, "Name": "Al Masry (duplicate removed if needed)", "ShortName": "MAS2", "ImageURL": "https://en.wikipedia.org/wiki/Al_Masry_SC" }
+  ],
+
+  "LeagueData": [
+    { "ID": 101, "Name": "Egyptian Premier League 2025", "ImageURL": "https://en.wikipedia.org/wiki/Egyptian_Premier_League" }
+  ],
+
+  "CupData": [
+    { "ID": 201, "Name": "Egypt Cup 2025", "ImageURL": "https://en.wikipedia.org/wiki/Egypt_Cup" },
+    { "ID": 202, "Name": "Egyptian Super Cup 2024/25", "ImageURL": "https://en.wikipedia.org/wiki/Egyptian_Super_Cup" }
+  ],
+
+  "StadiumData": [
+    { "ID": 301, "Name": "Cairo International Stadium" },
+    { "ID": 302, "Name": "30 June Stadium" },
+    { "ID": 303, "Name": "Borg El Arab Stadium" },
+    { "ID": 304, "Name": "Ismaily Stadium" },
+    { "ID": 305, "Name": "Suez Stadium" },
+    { "ID": 306, "Name": "Gouna Stadium" },
+    { "ID": 307, "Name": "Petro Sport Stadium" },
+    { "ID": 308, "Name": "Alexandria Stadium" },
+    { "ID": 309, "Name": "Al Salam Stadium" }
+  ]
+}
